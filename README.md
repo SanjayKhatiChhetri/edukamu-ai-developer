@@ -6,7 +6,7 @@ Study notes, cheat sheets, and Google NotebookLM notebooks for the **Microsoft S
 
 The learning diary is hosted as a Jekyll site on GitHub Pages:
 
-**[View the Learning Diary &rarr;](#)**
+**[View the Learning Diary &rarr;](https://sanjaykhatichhetri.github.io/edukamu-ai-developer/)**
 <!-- Replace # with your GitHub Pages URL after deployment -->
 
 ## What's Inside
