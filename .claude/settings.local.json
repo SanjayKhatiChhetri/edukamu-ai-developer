@@ -30,7 +30,11 @@
       "Bash(cd \"//wsl.localhost/ubuntu/home/sanjay/projects/skill.edukamu.fi-ai_developer\" && echo \"y\" | notebooklm login --browser-cookies chrome 2>&1)",
       "Bash(python create_notebooks.py)",
       "Bash(git status *)",
-      "Bash(gh auth *)"
+      "Bash(gh auth *)",
+      "Bash(git config *)",
+      "Bash(gh api *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
