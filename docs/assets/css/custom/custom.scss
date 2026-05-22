@@ -1,0 +1,40 @@
+// Key Terms tables — compact and readable
+table {
+  font-size: 0.85rem;
+
+  th, td {
+    padding: 0.4rem 0.6rem;
+  }
+}
+
+// Details/summary (My Notes sections)
+details {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  background: var(--body-background-color);
+
+  summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--link-color);
+  }
+}
+
+// TL;DR blocks — stand out
+strong:first-child {
+  &:has(+ br) {
+    display: inline;
+  }
+}
+
+// Better horizontal rules
+hr {
+  margin: 2rem 0;
+}
+
+// Wider content area for dense notes
+.main-content {
+  max-width: 55rem;
+}
